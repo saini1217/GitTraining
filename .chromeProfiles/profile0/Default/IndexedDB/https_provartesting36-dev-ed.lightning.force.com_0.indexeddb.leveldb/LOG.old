@@ -1,0 +1,12 @@
+2021/09/08-15:11:51.368 916c Reusing MANIFEST C:\Project\.chromeProfiles\profile0\Default\IndexedDB\https_provartesting36-dev-ed.lightning.force.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/08-15:11:51.368 916c Recovering log #284
+2021/09/08-15:11:51.374 916c Reusing old log C:\Project\.chromeProfiles\profile0\Default\IndexedDB\https_provartesting36-dev-ed.lightning.force.com_0.indexeddb.leveldb/000284.log 
+2021/09/08-15:11:58.312 590c Level-0 table #290: started
+2021/09/08-15:11:58.421 590c Level-0 table #290: 2486627 bytes OK
+2021/09/08-15:11:58.429 590c Delete type=0 #284
+2021/09/08-15:12:02.718 6c24 Compacting 1@1 + 1@2 files
+2021/09/08-15:12:02.767 6c24 Generated table #291@1: 2943 keys, 1513982 bytes
+2021/09/08-15:12:02.767 6c24 Compacted 1@1 + 1@2 files => 1513982 bytes
+2021/09/08-15:12:02.771 6c24 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/09/08-15:12:02.771 6c24 Delete type=2 #287
+2021/09/08-15:12:02.771 6c24 Delete type=2 #290

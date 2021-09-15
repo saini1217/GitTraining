@@ -1,0 +1,20 @@
+[37696:23920:0906/113743.659:WARNING:chrome_command_line_pref_store.cc(121)] Additional command-line proxy switches specified when --no-proxy-server was also specified.
+[37696:23920:0906/113743.659:WARNING:chrome_command_line_pref_store.cc(121)] Additional command-line proxy switches specified when --no-proxy-server was also specified.
+[37696:23920:0906/113743.706:WARNING:chrome_command_line_pref_store.cc(121)] Additional command-line proxy switches specified when --no-proxy-server was also specified.
+[37696:23920:0906/113752.228:ERROR:device_event_log_impl.cc(214)] [11:37:52.232] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+[37696:23920:0906/113752.228:ERROR:device_event_log_impl.cc(214)] [11:37:52.234] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+[37696:23920:0906/113821.345:INFO:CONSOLE(37)] "[object Object]", source: https://provartesting36-dev-ed.lightning.force.com/libraries/instrumentation/beaconLib.BeaconLibrary.js (37)
+[37696:23920:0906/113829.885:INFO:CONSOLE(37)] "[object Object]", source: https://provartesting36-dev-ed.lightning.force.com/libraries/instrumentation/beaconLib.BeaconLibrary.js (37)
+[37696:23920:0906/113836.292:INFO:CONSOLE(1434)] "[object HTMLDivElement]", source:  (1434)
+[37696:23920:0906/113836.509:INFO:CONSOLE(1434)] "[object HTMLDivElement]", source:  (1434)
+[37696:23920:0906/113836.617:INFO:CONSOLE(1434)] "[object HTMLDivElement]", source:  (1434)
+[37696:23920:0906/113836.943:INFO:CONSOLE(1434)] "[object HTMLDivElement]", source:  (1434)
+[37696:23920:0906/113836.972:INFO:CONSOLE(1434)] "[object HTMLElement]", source:  (1434)
+[37696:23920:0906/113839.126:INFO:CONSOLE(1434)] "[object HTMLDivElement]", source:  (1434)
+[37696:23920:0906/113839.294:INFO:CONSOLE(1434)] "[object HTMLDivElement]", source:  (1434)
+[37696:23920:0906/113839.440:INFO:CONSOLE(1434)] "[object HTMLElement]", source:  (1434)
+[37696:23920:0906/113839.573:INFO:CONSOLE(1434)] "[object HTMLButtonElement]", source:  (1434)
+[37696:23920:0906/113845.542:INFO:CONSOLE(37)] "[object Object]", source: https://provartesting36-dev-ed.lightning.force.com/libraries/instrumentation/beaconLib.BeaconLibrary.js (37)
+[37696:23920:0906/113850.805:INFO:CONSOLE(37)] "[object Object]", source: https://provartesting36-dev-ed.lightning.force.com/libraries/instrumentation/beaconLib.BeaconLibrary.js (37)
+[37696:23920:0906/113910.551:INFO:CONSOLE(13)] "Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.", source: https://www.salesforce.com/etc/clientlibs/sfdc-aem-master/clientlibs_www_tags.min.49c634c0df8e725801cecc00b8a87f20.js (13)
+[37696:23920:0906/113911.125:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

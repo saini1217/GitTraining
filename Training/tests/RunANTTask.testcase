@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testCase>
+  <summary/>
+  <steps>
+    <apiCall apiId="customapis.RunANTTask" name="RunANTTask" testItemId="1" title="RunANTTask: ⇒ ">
+      <arguments>
+        <argument id="path"/>
+        <argument id="buildFileName"/>
+        <argument id="targetName"/>
+        <argument id="isTaskSuccessful"/>
+        <argument id="resultScope">
+          <value class="value" valueClass="string">Test</value>
+        </argument>
+      </arguments>
+    </apiCall>
+  </steps>
+</testCase>
